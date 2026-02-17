@@ -44,4 +44,4 @@ A critical highlight of this project is the near-perfect alignment between the b
 
 ---
 **Author:** [Yunus Bilgiç](https://github.com/yunusbilgic)  
-*Kaggle Master | Quantitative Analyst*
+*Data Analyst | Quantitative Analyst*
