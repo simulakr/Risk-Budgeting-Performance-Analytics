@@ -5,11 +5,6 @@
 Gogglesheet:
 https://docs.google.com/spreadsheets/d/1CRw9NT8JfIxb5GrdOW81dGCmoDWeFYDWB6Kq-NK-BZY/edit?gid=1476966166#gid=1476966166
 
-![Quant Finance](https://img.shields.io/badge/Domain-Quantitative%20Finance-blue)
-![Python](https://img.shields.io/badge/Language-Python-green)
-![Risk Management](https://img.shields.io/badge/Focus-Risk%20Budgeting-red)
-![Sharpe Ratio](https://img.shields.io/badge/Sharpe-4.12-gold)
-
 ## 📌 Project Overview
 This project presents a comprehensive **Risk Budgeting** framework for a multi-pair systematic trading strategy operating on a 15-minute timeframe. Based on 14 months of historical backtesting (642 trades) and 6 weeks of live execution validation, the analysis focuses on capital allocation efficiency and statistical robustness.
 
@@ -46,10 +41,6 @@ A critical highlight of this project is the near-perfect alignment between the b
 * **Monte Carlo Stress Test:** 10,000 iterations of return shuffling indicate a **Risk of Ruin (breaching the 15-unit budget) of <0.2%**.
 * **Regime Robustness:** The 14-month data encompasses various market cycles, including high-volatility trends and low-volatility ranges.
 
-## 📂 Repository Structure
-* `data/`: Weekly performance logs (Backtest & Live).
-* `scripts/`: Python analytics for Sharpe, Drawdown, and Monte Carlo simulations.
-* `Risk_Budgeting_Model.xlsx`: Interactive Excel dashboard for capital allocation.
 
 ---
 **Author:** [Yunus Bilgiç](https://github.com/yunusbilgic)  
